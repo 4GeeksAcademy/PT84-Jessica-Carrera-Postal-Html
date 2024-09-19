@@ -1,0 +1,10 @@
+body {
+	background: rgb(0, 0, 0);
+}
+* {
+	border: 1px dashed red;
+	min-height: 10px;
+}
+<head>
+<link rel=stylesheet" href="style.css">
+</head>
